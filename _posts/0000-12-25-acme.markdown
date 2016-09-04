@@ -1,0 +1,27 @@
+---
+layout:   project
+permalink: /company/acme/
+
+company:          ACME Corp.
+compamy_img:      http://shanegela.github.io/FEWD/homework/homework-3/images/acme-corp.jpg
+project:          System operacyjny batyskafu badającego formy życia (rurururkowce) na dnie Rowu Mariańskiego
+project_img:      http://image.shutterstock.com/z/stock-vector-yellow-submarine-98743079.jpg
+
+methodology:      Scrum
+shipment_method:  VCS, code review
+training:         we własnym zakresie
+tools_providen:   zależne od preferencji studenta
+mentor:           specjalista z Instytutu Socjocybernetyki
+
+worktime:         2 tygodnie
+localtion:        tylko w biurze
+money:            20zł/roboczogodzinę
+later_employment: w miarę dostępnych miejsc
+
+team_size:        3-5 osób
+requirements:     podatawowa umiejętność programowania w C++
+project_roles:    Scrum Master, Deveoper, QA
+
+copyrights:       Wolna Licencja GNU/GPL v3 
+---
+Rurkowce - żyją na dnie oceanu, w Rowie Mariańskim. Są jedzone przez owce.

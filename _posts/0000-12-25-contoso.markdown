@@ -1,0 +1,27 @@
+---
+layout:   project
+permalink: /company/contoso/
+
+company:          Contoso Ltd.
+compamy_img:      https://sokodesign.net/wp-content/uploads/2015/10/contoso-logo.png
+project:          System zarządzania logistyką sprzedaży paróweczkami
+project_img:      http://3.bp.blogspot.com/_HMMzMDVXffA/SwcOyFah7aI/AAAAAAAAABM/B2AJX8KcaxE/s1600/par%C3%B3weczki_o%C5%9Bmiorniczki.JPG
+
+methodology:      XP
+shipment_method:  wysyłanie kodu emailem
+training:         przewidziane szkolenie z COBOLa
+tools_providen:   dostęp do komputera mainframe przez modem 9600 bodów
+mentor:           Wujek Google
+
+worktime:         co najmniej 3 tygodnie
+localtion:        możliwa praca zdalna
+money:            za darmo
+later_employment: możliwe
+
+team_size:        10-50 ludzi
+requirements:     15 lat doświadczenia w Java 1.2
+project_roles:    koder, QA
+
+copyrights:       bezpłatna licencja
+---
+Robimy super projekt
