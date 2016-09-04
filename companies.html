@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<div class="container">
+    <div class="row">
+        <!-- Article main content -->
+        <article class="col-sm-12 maincontent">
+            <header class="page-header">
+                <h1 class="page-title">Companiesy</h1>
+            </header>
+            <ul>
+            {% for post in site.posts %}
+              <li><a href="{{ post.url }}">{{ post.project }} - {{ post.company }} </a></li>
+            {% endfor %}
+            </ul>
+        </article>
+    </div>
+</div>
+<!-- /container -->
