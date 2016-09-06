@@ -6,11 +6,11 @@ layout: default
         <!-- Article main content -->
         <article class="col-sm-12 maincontent">
             <header class="page-header">
-                <h1 class="page-title">Companiesy</h1>
+                <h1 class="page-title">Współpracują z nami</h1>
             </header>
             <ul>
             {% for post in site.posts %}
-              <li><a href="{{ post.url }}">{{ post.project }} - {{ post.company }} </a></li>
+              <li><a href="{{ post.url }}">{{ post.company }} - {{ post.project }} </a></li>
             {% endfor %}
             </ul>
         </article>

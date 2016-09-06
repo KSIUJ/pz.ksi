@@ -3,68 +3,97 @@ layout: default
 ---
 <!-- container -->
 <style>
-.obrazek{
-
-}
+.obrazek {}
 </style>
 <div class="container">
     <div class="row">
-        <article class="col-sm-6">
+        <article class="col-sm-12">
             <header class="page-header">
-                <h1 class="page-title">Firma i projekt</h1>
+                <h1 class="page-title">{{ page.company }}</h1>
             </header>
-            <p>
-                <strong>{{page.company}}</strong>
-                <br />
-                <img src="{{page.compamy_img}}" />
+            <p style="text-align: justify">
+                <img src="{{ page.company_img }}" style="float: left; max-width: 150px; max-height: 150px; margin: 0px 15px 15px 15px" /> {{ page.company_desc }}
             </p>
-            <p>
-              <strong>{{page.project}}</strong>
-              <br />
-              <img src="{{page.project_img}}" style="max-height: 200px;" />
-            </p>
-            <br>
-        </article>
-        <article class="col-sm-6">
-            <header class="page-header">
-                <h1 class="page-title">Realizacja projektu</h1>
-            </header>
-            <p>
-              <strong>metodologia:</strong> {{page.methodology}}<br />
-              <strong>metoda dostarczania:</strong> {{page.shipment_method}}<br />
-              <strong>czas pracy:</strong> {{page.worktime}}<br />
-              <strong>lokacja:</strong> {{page.localtion}}<br />
-              <strong>zespół:</strong> {{page.team_size}}<br />
-              <strong>role w zespole:</strong> {{page.project_roles}}<br />
-              <strong>prawa autorskie:</strong> {{page.copyrights}}<br />
-            </p>
-            <br>
         </article>
     </div>
     <div class="row">
-        <article class="col-sm-6">
-            <header class="page-header">
-                <h1 class="page-title">Dla studenta</h1>
-            </header>
-            <p>
-              <strong>narzędzia dostarczane przez firmę:</strong> {{page.tools_providen}}<br />
-              <strong>mentor:</strong> {{page.mentor}}<br />
-              <strong>przewidywane szkolenia:</strong> {{page.training}}<br />
-              <strong>wynagrodzenie:</strong> {{page.money}}<br />
-              <strong>możliwość zatrudnienia:</strong> {{page.later_employment}}<br />
-
-            </p>
-            <br>
-        </article>
-        <article class="col-sm-6">
-            <header class="page-header">
-                <h1 class="page-title">Szczegóły</h1>
-            </header>
-            <p>
-              {{content}}
-            </p>
-            <br>
-        </article>
+      <header class="page-header">
+        <h1 class="page-title">{{ page.project }}</h1>
+      </header>
+        <div class="row">
+            <article class="col-sm-6">
+                <header class="page-header">
+                    <h2 class="page-title">Realizacja projektu</h2>
+                </header>
+                <table class="table table-striped">
+                  <tr>
+                    <th>metodologia</th>
+                    <td>{{ page.methodology }}</td>
+                  </tr>
+                  <tr>
+                    <th>metoda dostarczania</th>
+                    <td>{{ page.shipment_method }}</td>
+                  </tr>
+                  <tr>
+                    <th>czas pracy</th>
+                    <td>{{ page.worktime }}</td>
+                  </tr>
+                  <tr>
+                    <th>lokacja</th>
+                    <td>{{ page.location }}</td>
+                  </tr>
+                  <tr>
+                    <th>zespół</th>
+                    <td>{{ page.team_size }}</td>
+                  </tr>
+                  <tr>
+                    <th>role w zespole</th>
+                    <td>{{ page.project_roles }}</td>
+                  </tr>
+                  <tr>
+                    <th>prawa autorskie</th>
+                    <td>{{ page.copyrights }}</td>
+                  </tr>
+                </table>
+            </article>
+            <article class="col-sm-6">
+                <header class="page-header">
+                    <h2 class="page-title">Dla studenta</h2>
+                </header>
+                <table class="table table-striped">
+                  <tr>
+                    <th>narzędzia dostarczane przez firmę</th>
+                    <td>{{ page.tools_provided }}</td>
+                  </tr>
+                  <tr>
+                    <th>mentor</th>
+                    <td>{{ page.mentor }}</td>
+                  </tr>
+                  <tr>
+                    <th>przewidywane szkolenia</th>
+                    <td>{{ page.training }}</td>
+                  </tr>
+                  <tr>
+                    <th>wynagrodzenie</th>
+                    <td>{{ page.money }}</td>
+                  </tr>
+                  <tr>
+                    <th>możliwość zatrudnienia</th>
+                    <td>{{ page.later_employment }}</td>
+                  </tr>
+                </table>
+            </article>
+        </div>
+        <div class="row">
+            <article class="col-sm-12">
+                <header class="page-header">
+                    <h2 class="page-title">Szczegóły</h2>
+                </header>
+                <p style="text-align: justify">
+                    {{ content }}
+                </p>
+            </article>
+        </div>
     </div>
 </div>
 <!-- /container -->

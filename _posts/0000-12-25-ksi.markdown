@@ -1,0 +1,31 @@
+---
+layout:   project
+permalink: /company/ksi/
+
+company:          Koło Studentów Informatyki UJ
+company_img:      https://ksi.ii.uj.edu.pl/images/sticker.png
+company_desc:     |
+                    KSI - czternasta litera alfabetu greckiego (który z pewnością poznasz na Wstępie do Teorii Mnogości) na naszej uczelni zyskała szczególne znaczenie. Pod tym symbolem kryje się bowiem Koło Studentów Informatyki UJ - organizacja, którą powinien znać każdy student informatyki (i nie tylko!). Od prawie 40 lat zrzeszamy kreatywne i ciekawe świata osoby, które nie chcą ograniczać się wyłącznie do obowiązkowych zajęć na uczelni.
+project:          System do elektronicznego liczenia głosów
+project_img:      http://image.shutterstock.com/z/stock-vector-yellow-submarine-98743079.jpg
+
+methodology:      Agile
+shipment_method:  VCS, code review
+training:         brak
+tools_provided:   infrastruktura serwerowa
+mentor:           brak
+
+worktime:         minimum 8h tygodniowo
+location:        zdalna lub w siedzibie koła
+money:            brak
+later_employment: brak
+
+team_size:        3-8 osób
+requirements:     znajomość zagadnień cyberbezpieczeństwa
+project_roles:    developer
+
+copyrights:       Wolna Licencja GNU/GPL v3 
+---
+Wybory zarządu są jednym z ważniejszych wydarzeń dla członków naszego Koła. Przeprowadzane w standardowy, ,,papierowy” sposób są niestety długotrwałe oraz narażone na błędy liczących głosy. W związku za powyższym zrodził się pomysł stworzenia elektronicznego systemu liczenia głosów. 
+Aplikacja powinna uwzględniać 2 typy użytkowników - administratora oraz usera. Administrator może założyć nową ankietę,  uwzględnić jej typ (wybór z dostępnych opcji, możliwość wpisania własnych odpowiedzi, jednokrotnego czy wielokrotnego wyboru, itp), a także w prosty sposób (poprzez link lub wiadomości email) rozeslac do wcześniej zdefiniowanej grupy użytkowników. Wybory poszczególnych osób nie mogą być widoczne nawet dla administratora, otrzymuje on jedynie sumarycznie wyniki głosowania. Administrator ma prawo również zakończyć ankietę w dowolnym dla niego momencie. Użytkownik może wziąć udział w głosowaniach które administrator udostępnił dla jego grupy. Może również odczytywać szczegółowe wyniki każdego z głosowań.
+Niezwykle istotne w systemie będzie bezpieczeństwo przesylanych danych oraz zablokowanie możliwości różnorakich ataków. System powinien być dostępny z poziomu komputera oraz urządzeń mobilnych z systemami operacyjnymi Android oraz iOS (dopuszczalna responsywna wersja aplikacji webowej zamiast natywnych rozwiązań na każdą z platform). Kod będzie udostępniany na zasadzie otwartej licencji licencji utrzymywany oraz modyfikowany przez członków Koła w przyszłych latach. 
