@@ -31,32 +31,36 @@ article > p {
                 </header>
                 <table class="table table-striped">
                     <tr>
+                        <th>stack technologiczny</th>
+                        <td>{{ page.technological_stack | markdownify }}</td>
+                    </tr>
+                    <tr>
                         <th>metodologia</th>
-                        <td>{{ page.methodology }}</td>
+                        <td>{{ page.methodology | markdownify }}</td>
                     </tr>
                     <tr>
                         <th>metoda dostarczania</th>
-                        <td>{{ page.shipment_method }}</td>
+                        <td>{{ page.shipment_method | markdownify }}</td>
                     </tr>
                     <tr>
                         <th>czas pracy</th>
-                        <td>{{ page.worktime }}</td>
+                        <td>{{ page.worktime | markdownify }}</td>
                     </tr>
                     <tr>
                         <th>lokacja</th>
-                        <td>{{ page.location }}</td>
+                        <td>{{ page.location | markdownify }}</td>
                     </tr>
                     <tr>
                         <th>zespół</th>
-                        <td>{{ page.team_size }}</td>
+                        <td>{{ page.team_size | markdownify }}</td>
                     </tr>
                     <tr>
                         <th>role w zespole</th>
-                        <td>{{ page.project_roles }}</td>
+                        <td>{{ page.project_roles | markdownify }}</td>
                     </tr>
                     <tr>
                         <th>prawa autorskie</th>
-                        <td>{{ page.copyrights }}</td>
+                        <td>{{ page.copyrights | markdownify }}</td>
                     </tr>
                 </table>
             </article>
@@ -67,23 +71,27 @@ article > p {
                 <table class="table table-striped">
                     <tr>
                         <th>narzędzia dostarczane przez firmę</th>
-                        <td>{{ page.tools_provided }}</td>
+                        <td>{{ page.tools_provided | markdownify }}</td>
                     </tr>
                     <tr>
                         <th>mentor</th>
-                        <td>{{ page.mentor }}</td>
+                        <td>{{ page.mentor | markdownify }}</td>
                     </tr>
                     <tr>
                         <th>przewidywane szkolenia</th>
-                        <td>{{ page.training }}</td>
+                        <td>{{ page.training | markdownify }}</td>
                     </tr>
                     <tr>
                         <th>wynagrodzenie</th>
-                        <td>{{ page.money }}</td>
+                        <td>{{ page.money | markdownify }}</td>
                     </tr>
                     <tr>
                         <th>możliwość zatrudnienia</th>
-                        <td>{{ page.later_employment }}</td>
+                        <td>{{ page.later_employment | markdownify }}</td>
+                    </tr>
+                    <tr>
+                        <th>profil kandydata</th>
+                        <td>{{ page.requirements | markdownify }}</td>
                     </tr>
                 </table>
             </article>
