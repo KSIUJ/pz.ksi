@@ -19,9 +19,11 @@ shipment_method: |
     2. Utrzymywanie wersji roboczej dostępnej w każdej chwili (od czasu stworzenia czegoś funkcjonalnego).
 training: |
     Przewidujemy:
-        - Wprowadzenie do projektu
-        - Szkolenie z metodyk zwinnych
-        - Możliwość nauki na bieżąco
+
+    - Wprowadzenie do projektu
+    - Szkolenie z metodyk zwinnych
+    - Możliwość nauki na bieżąco
+    
     Nie przewidujemy szkoleń wstępnych z potrzebnych technologii.
 tools_provided: |
     Projekt nie będzie prawdopodobnie wymagał specjalnego sprzętu. To co może być potrzebne, to ewentualnie telefony z odpowiednimi  czujnikami i systemem oraz zewnętrzny serwer do postawienia bazy , back-end’u i front-end’u. Te elementy zostaną zapewnione.

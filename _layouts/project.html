@@ -2,22 +2,13 @@
 layout: default
 ---
 <!-- container -->
-<style>
-article > p {
-    text-align: justify;
-}
-
-td {
-    text-align: justify;
-}
-</style>
 <div class="container">
     <div class="row">
         <article class="col-sm-12">
             <header class="page-header" id="company_name">
                 <h1 class="page-title">{{ page.company }}</h1>
             </header>
-            <p style="text-align: justify">
+            <p class="text-justify">
                 <img src="{{ page.company_img }}" style="float: left; max-width: 150px; max-height: 150px; margin: 0px 15px 15px 15px" /> {{ page.company_desc }}
             </p>
         </article>
@@ -32,7 +23,7 @@ td {
                     <header class="page-header">
                         <h2 class="page-title">Realizacja projektu</h2>
                     </header>
-                    <table class="table table-striped">
+                    <table class="table table-striped text-justify">
                         <tr>
                             <th>stack technologiczny</th>
                             <td>{{ page.technological_stack | markdownify }}</td>
@@ -100,7 +91,7 @@ td {
                 </div>
             </div>
             <div class="row">
-                <article class="col-sm-12">
+                <article class="col-sm-12 text-justify">
                     <header class="page-header">
                         <h2 class="page-title">Szczegóły</h2>
                     </header>
