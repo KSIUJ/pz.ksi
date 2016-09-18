@@ -1,6 +1,5 @@
 ---
 layout: project
-permalink: /company/grande-parade/rest-api-via-message-queue
 company: Grande Parade
 company_img:
 company_desc:

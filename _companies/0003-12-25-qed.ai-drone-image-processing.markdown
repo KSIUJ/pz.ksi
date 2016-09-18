@@ -1,6 +1,5 @@
 ---
 layout: project
-permalink: /company/qed.ai/
 company: qed.ai
 company_img:
 company_desc:

@@ -1,7 +1,5 @@
 ---
 layout:   project
-permalink: /company/nokia/
-
 company:          Nokia
 company_img:      
 company_desc:     

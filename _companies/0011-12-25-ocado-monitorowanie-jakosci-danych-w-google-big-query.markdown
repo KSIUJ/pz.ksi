@@ -1,6 +1,6 @@
 ---
 layout: project
-permalink: /company/ocado/monitorowanie-jakosci-danych-w-google-big-query
+categories: ocado
 company: Ocado
 company_img:
 company_desc:

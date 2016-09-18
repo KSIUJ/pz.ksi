@@ -1,6 +1,5 @@
 ---
 layout: project
-permalink: /company/grande-parade/manual-trading-system
 company: Grande Parade
 company_img:
 company_desc:

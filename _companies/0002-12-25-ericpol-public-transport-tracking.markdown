@@ -1,6 +1,5 @@
 ---
 layout: project
-permalink: /company/ericpol/
 company: Ericpol
 company_img:
 company_desc:

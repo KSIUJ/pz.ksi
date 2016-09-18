@@ -1,6 +1,5 @@
 ---
 layout: project
-permalink: /company/grande-parade/monitoring-procesow-nodejs
 company: Grande Parade
 company_img:
 company_desc:

@@ -1,6 +1,5 @@
 ---
 layout: project
-permalink: /company/webcon/
 company: Webcon
 company_img:
 company_desc:

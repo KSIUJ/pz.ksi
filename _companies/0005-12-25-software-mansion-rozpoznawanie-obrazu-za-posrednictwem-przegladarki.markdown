@@ -1,6 +1,5 @@
 ---
 layout: project
-permalink: /company/softwaremansion/
 company: Software Mansion
 company_img:
 company_desc:

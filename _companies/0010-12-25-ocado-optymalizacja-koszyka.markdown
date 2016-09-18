@@ -1,6 +1,6 @@
 ---
 layout: project
-permalink: /company/ocado/optymalizacja-koszyka
+categories: ocado
 company: Ocado
 company_img:
 company_desc:

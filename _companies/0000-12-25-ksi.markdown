@@ -1,7 +1,5 @@
 ---
 layout:   project
-permalink: /company/ksi/
-
 company:          Koło Studentów Informatyki UJ
 company_img:      https://ksi.ii.uj.edu.pl/images/sticker.png
 company_desc:     |

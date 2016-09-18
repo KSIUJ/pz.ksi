@@ -1,6 +1,5 @@
 ---
 layout: project
-permalink: /company/grande-parade/prognozy-wynikow-wydarzen-sportowych
 company: Grande Parade
 company_img:
 company_desc:

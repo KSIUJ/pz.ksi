@@ -1,6 +1,5 @@
 ---
 layout: project
-permalink: /company/grande-parade/skalowalne-stanowe-uslugi-sieciowe
 company: Grande Parade
 company_img:
 company_desc:

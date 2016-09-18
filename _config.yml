@@ -18,5 +18,9 @@ twitter_username: jekyllrb
 github_username:  jekyll
 permalink: none
 
+collections:
+  companies:
+    output: true
+
 # Build settings
 markdown: kramdown
