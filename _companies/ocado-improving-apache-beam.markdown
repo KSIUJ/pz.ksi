@@ -38,6 +38,6 @@ Recently Ocado made a contribution to Apache Beam by committing a KinesisIO 
 
 Why would you choose this project?
 
-- learn a lot about state­of­the­art BigData processing ­ a knowledge that still few poses, but the demand for it is growing among employers
+- learn a lot about state­of­the­art BigData processing ­ a knowledge that still few poses, but the demand for it is growing among employers
 - make a contribution to open source project, which will make a great addition to your CV
 - learn how to write high quality, production­ready Java software

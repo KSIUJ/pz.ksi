@@ -11,7 +11,7 @@ layout: default
             <ul>
                 {% assign companies = site.companies | sort: 'ordering' %}
                 {% for company in companies %}
-                <li><a href="{{ company.url }}">{{ company.company }} - {{ company.project }}</a></li>
+                <li><a href="{{ company.url }}"><strong>{{ company.company }}</strong> - {{ company.project }}</a></li>
                 {% endfor %}
             </ul>
         </article>

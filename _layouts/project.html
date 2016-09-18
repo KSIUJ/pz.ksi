@@ -3,17 +3,18 @@ layout: default
 ---
 <!-- container -->
 <style>
-.obrazek {}
 article > p {
-  text-align: justify;
+    text-align: justify;
 }
 
-
+td {
+    text-align: justify;
+}
 </style>
 <div class="container">
     <div class="row">
         <article class="col-sm-12">
-            <header class="page-header">
+            <header class="page-header" id="company_name">
                 <h1 class="page-title">{{ page.company }}</h1>
             </header>
             <p style="text-align: justify">
@@ -23,92 +24,96 @@ article > p {
     </div>
     <div class="row">
         <article class="col-sm-12">
-        <header class="page-header">
-            <h1 class="page-title">{{ page.project }}</h1>
-        </header>
-        <div class="row">
-            <div class="col-xs-12 col-md-6">
-                <header class="page-header">
-                    <h2 class="page-title">Realizacja projektu</h2>
-                </header>
-                <table class="table table-striped">
-                    <tr>
-                        <th>stack technologiczny</th>
-                        <td>{{ page.technological_stack | markdownify }}</td>
-                    </tr>
-                    <tr>
-                        <th>metodologia</th>
-                        <td>{{ page.methodology | markdownify }}</td>
-                    </tr>
-                    <tr>
-                        <th>metoda dostarczania</th>
-                        <td>{{ page.shipment_method | markdownify }}</td>
-                    </tr>
-                    <tr>
-                        <th>czas pracy</th>
-                        <td>{{ page.worktime | markdownify }}</td>
-                    </tr>
-                    <tr>
-                        <th>lokacja</th>
-                        <td>{{ page.location | markdownify }}</td>
-                    </tr>
-                    <tr>
-                        <th>zespół</th>
-                        <td>{{ page.team_size | markdownify }}</td>
-                    </tr>
-                    <tr>
-                        <th>role w zespole</th>
-                        <td>{{ page.project_roles | markdownify }}</td>
-                    </tr>
-                    <tr>
-                        <th>prawa autorskie</th>
-                        <td>{{ page.copyrights | markdownify }}</td>
-                    </tr>
-                </table>
+            <header class="page-header">
+                <h1 class="page-title">{{ page.project }}</h1>
+            </header>
+            <div class="row">
+                <div class="col-xs-12 col-md-6">
+                    <header class="page-header">
+                        <h2 class="page-title">Realizacja projektu</h2>
+                    </header>
+                    <table class="table table-striped">
+                        <tr>
+                            <th>stack technologiczny</th>
+                            <td>{{ page.technological_stack | markdownify }}</td>
+                        </tr>
+                        <tr>
+                            <th>metodologia</th>
+                            <td>{{ page.methodology | markdownify }}</td>
+                        </tr>
+                        <tr>
+                            <th>metoda dostarczania</th>
+                            <td>{{ page.shipment_method | markdownify }}</td>
+                        </tr>
+                        <tr>
+                            <th>czas pracy</th>
+                            <td>{{ page.worktime | markdownify }}</td>
+                        </tr>
+                        <tr>
+                            <th>lokacja</th>
+                            <td>{{ page.location | markdownify }}</td>
+                        </tr>
+                        <tr>
+                            <th>zespół</th>
+                            <td>{{ page.team_size | markdownify }}</td>
+                        </tr>
+                        <tr>
+                            <th>role w zespole</th>
+                            <td>{{ page.project_roles | markdownify }}</td>
+                        </tr>
+                        <tr>
+                            <th>prawa autorskie</th>
+                            <td>{{ page.copyrights | markdownify }}</td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="col-xs-12 col-md-6">
+                    <header class="page-header">
+                        <h2 class="page-title">Dla studenta</h2>
+                    </header>
+                    <table class="table table-striped">
+                        <tr>
+                            <th>narzędzia dostarczane przez firmę</th>
+                            <td>{{ page.tools_provided | markdownify }}</td>
+                        </tr>
+                        <tr>
+                            <th>mentor</th>
+                            <td>{{ page.mentor | markdownify }}</td>
+                        </tr>
+                        <tr>
+                            <th>przewidywane szkolenia</th>
+                            <td>{{ page.training | markdownify }}</td>
+                        </tr>
+                        <tr>
+                            <th>wynagrodzenie</th>
+                            <td>{{ page.money | markdownify }}</td>
+                        </tr>
+                        <tr>
+                            <th>możliwość zatrudnienia</th>
+                            <td>{{ page.later_employment | markdownify }}</td>
+                        </tr>
+                        <tr>
+                            <th>profil kandydata</th>
+                            <td>{{ page.requirements | markdownify }}</td>
+                        </tr>
+                    </table>
+                </div>
             </div>
-            <div class="col-xs-12 col-md-6">
-                <header class="page-header">
-                    <h2 class="page-title">Dla studenta</h2>
-                </header>
-                <table class="table table-striped">
-                    <tr>
-                        <th>narzędzia dostarczane przez firmę</th>
-                        <td>{{ page.tools_provided | markdownify }}</td>
-                    </tr>
-                    <tr>
-                        <th>mentor</th>
-                        <td>{{ page.mentor | markdownify }}</td>
-                    </tr>
-                    <tr>
-                        <th>przewidywane szkolenia</th>
-                        <td>{{ page.training | markdownify }}</td>
-                    </tr>
-                    <tr>
-                        <th>wynagrodzenie</th>
-                        <td>{{ page.money | markdownify }}</td>
-                    </tr>
-                    <tr>
-                        <th>możliwość zatrudnienia</th>
-                        <td>{{ page.later_employment | markdownify }}</td>
-                    </tr>
-                    <tr>
-                        <th>profil kandydata</th>
-                        <td>{{ page.requirements | markdownify }}</td>
-                    </tr>
-                </table>
+            <div class="row">
+                <article class="col-sm-12">
+                    <header class="page-header">
+                        <h2 class="page-title">Szczegóły</h2>
+                    </header>
+                    <p>
+                        {{ content }}
+                    </p>
+                </article>
             </div>
-        </div>
-        <div class="row">
-            <article class="col-sm-12">
-                <header class="page-header">
-                    <h2 class="page-title">Szczegóły</h2>
-                </header>
-                <p>
-                    {{ content }}
-                </p>
-            </article>
-        </div>
         </article>
     </div>
 </div>
+<script>
+var scroll_to = document.getElementById('company_name');
+scroll_to.scrollIntoView();
+</script>
 <!-- /container -->

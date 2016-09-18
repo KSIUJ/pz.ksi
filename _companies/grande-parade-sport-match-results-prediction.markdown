@@ -33,6 +33,5 @@ Big Data may be used but not a necessity.
 Potential extension might include real­time estimation with streaming.
 
 There are two potential directions for this project:
-
-­- client side, betting helper
+- client side, betting helper
 - bookmaker side, prices adjustments
