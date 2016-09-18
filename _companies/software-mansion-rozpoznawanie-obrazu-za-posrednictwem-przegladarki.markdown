@@ -1,5 +1,6 @@
 ---
 layout: project
+ordering: 5
 company: Software Mansion
 company_img:
 company_desc:

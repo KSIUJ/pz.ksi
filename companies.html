@@ -9,7 +9,8 @@ layout: default
                 <h1 class="page-title">Współpracują z nami</h1>
             </header>
             <ul>
-                {% for company in site.companies %}
+                {% assign companies = site.companies | sort: 'ordering' %}
+                {% for company in companies %}
                 <li><a href="{{ company.url }}">{{ company.company }} - {{ company.project }}</a></li>
                 {% endfor %}
             </ul>

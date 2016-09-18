@@ -1,5 +1,6 @@
 ---
 layout:   project
+ordering: 0
 company:          Koło Studentów Informatyki UJ
 company_img:      https://ksi.ii.uj.edu.pl/images/sticker.png
 company_desc:     |

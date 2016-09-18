@@ -1,5 +1,6 @@
 ---
 layout: project
+ordering: 4
 company: Webcon
 company_img:
 company_desc:

@@ -7,6 +7,8 @@ layout: default
 article > p {
   text-align: justify;
 }
+
+
 </style>
 <div class="container">
     <div class="row">
@@ -25,7 +27,7 @@ article > p {
             <h1 class="page-title">{{ page.project }}</h1>
         </header>
         <div class="row">
-            <article class="col-sm-6">
+            <div class="col-xs-12 col-md-6">
                 <header class="page-header">
                     <h2 class="page-title">Realizacja projektu</h2>
                 </header>
@@ -63,8 +65,8 @@ article > p {
                         <td>{{ page.copyrights | markdownify }}</td>
                     </tr>
                 </table>
-            </article>
-            <article class="col-sm-6">
+            </div>
+            <div class="col-xs-12 col-md-6">
                 <header class="page-header">
                     <h2 class="page-title">Dla studenta</h2>
                 </header>
@@ -94,7 +96,7 @@ article > p {
                         <td>{{ page.requirements | markdownify }}</td>
                     </tr>
                 </table>
-            </article>
+            </div>
         </div>
         <div class="row">
             <article class="col-sm-12">

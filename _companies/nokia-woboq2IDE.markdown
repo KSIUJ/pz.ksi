@@ -1,5 +1,6 @@
 ---
 layout:   project
+ordering: 1
 company:          Nokia
 company_img:      
 company_desc:     

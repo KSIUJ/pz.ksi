@@ -1,5 +1,6 @@
 ---
 layout: project
+ordering: 2
 company: Ericpol
 company_img:
 company_desc:

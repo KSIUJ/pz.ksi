@@ -1,5 +1,6 @@
 ---
 layout: project
+ordering: 3
 company: qed.ai
 company_img:
 company_desc:

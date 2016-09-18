@@ -1,5 +1,6 @@
 ---
 layout: project
+ordering: 16
 company: Grande Parade
 company_img:
 company_desc:

@@ -1,5 +1,6 @@
 ---
 layout: project
+ordering: 8
 categories: ocado
 company: Ocado
 company_img:
