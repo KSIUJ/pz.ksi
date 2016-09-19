@@ -1,7 +1,7 @@
 ---
 layout: project
 ordering: 12
-company: Grande Parade
+company: Grand Parade
 company_img:
 company_desc:
 project: Sport match results prediction

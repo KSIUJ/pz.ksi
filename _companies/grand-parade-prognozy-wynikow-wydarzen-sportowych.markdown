@@ -1,7 +1,7 @@
 ---
 layout: project
 ordering: 18
-company: Grande Parade
+company: Grand Parade
 company_img:
 company_desc:
 project: Prognozy wyników wydarzeń sportowych na podstawie przebiegu historycznych gier

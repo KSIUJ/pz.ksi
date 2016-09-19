@@ -1,7 +1,7 @@
 ---
 layout: project
 ordering: 17
-company: Grande Parade
+company: Grand Parade
 company_img:
 company_desc:
 project: Opracowanie narzędzia służącego do monitoringu procesów nodejs

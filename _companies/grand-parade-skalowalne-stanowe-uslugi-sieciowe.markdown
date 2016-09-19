@@ -1,7 +1,7 @@
 ---
 layout: project
 ordering: 16
-company: Grande Parade
+company: Grand Parade
 company_img:
 company_desc:
 project: Skalowalne stanowe usługi sieciowe o wysokiej dostępności w oparciu o Akka

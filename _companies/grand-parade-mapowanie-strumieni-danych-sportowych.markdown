@@ -1,7 +1,7 @@
 ---
 layout: project
 ordering: 19
-company: Grande Parade
+company: Grand Parade
 company_img:
 company_desc:
 project: Mapowanie strumieni danych sportowych w różnych formatach

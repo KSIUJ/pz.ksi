@@ -1,7 +1,7 @@
 ---
 layout: project
 ordering: 15
-company: Grande Parade
+company: Grand Parade
 company_img:
 company_desc:
 project: Sport events matching

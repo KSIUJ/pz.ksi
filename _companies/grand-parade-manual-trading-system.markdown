@@ -1,7 +1,7 @@
 ---
 layout: project
 ordering: 14
-company: Grande Parade
+company: Grand Parade
 company_img:
 company_desc:
 project: Manual trading system
