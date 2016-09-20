@@ -10,7 +10,7 @@
     <meta property"og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{ site.url + page.url }}">
-    <meta property="og:image" content="{{ site.url }} + /assets/images/favicon.ico">
+    <meta property="og:image" content="{{ site.url | append: '/assets/images/favicon.ico' }}">
     <meta property="og:description" content="{{ site.description | escape }}">
     <meta property="og:locale" content="pl_PL">
     <meta property="og:site_name" content="{{ site.title | escape }}">
