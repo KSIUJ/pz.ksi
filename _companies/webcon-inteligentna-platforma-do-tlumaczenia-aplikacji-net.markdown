@@ -1,7 +1,7 @@
 ---
 layout: project
 ordering: 4
-company: Webcon
+company: WEBCON
 company_img:
 company_desc:
 project: Inteligentna platforma do tłumaczenia aplikacji .NET
@@ -24,8 +24,8 @@ worktime: |
      Minimalny wymiar czasowy 4h tygodniowo. Optymalny 8-10h tygodniowo.
 location: |
     Praca w modelu mieszanym:
-        - Etap 1. Indywidualna praca zdalna + praca w grupie w biurze firmy + spotkania i szkolenia w firmie
-        - Etap2. Praca w firmie w wygodnym wymiarze (w miarę możliwości i chęci poszczególnych członków zespołu)
+    - Etap 1. Indywidualna praca zdalna + praca w grupie w biurze firmy + spotkania i szkolenia w firmie
+    - Etap2. Praca w firmie w wygodnym wymiarze (w miarę możliwości i chęci poszczególnych członków zespołu)
 money:  |
     W etapie pierwszym nie jest przewidziane wynagrodzenie, w etapie drugim wynagrodzenie za pracę.
 later_employment: |
@@ -35,10 +35,11 @@ requirements: |
     Znajomość C#, SQL, programowania obiektowego. Chęć uczenia się i rozwijania umiejętności. Zainteresowania dowolne, w firmie dzielimy wiele pasji. Łączy nas chęć tworzenia czegoś naprawdę dobrego. Nie wymagane jest wcześniejsze praktyczne doświadczenie.
 project_roles: |
     Projekt z nastawieniem na rozwój umiejętności inżynierii programowania, tworzenia produkcyjnych rozwiązań dla klientów. Nauka zwinnego wytwarzania programów z wykorzystaniem zwinnych technik. Nacisk na pracę zespołową i samoorganizujący się zespół, umiejętność wymiany obowiązków, przejmowania i pomocy w zadaniach. To czy powstaną wydzielone role np. tester zależy tylko od zespołu.
+
+    Wszystko powyższe może się zmienić, jeśli uznamy wspólnie, że nie działa dobrze.
 copyrights: |
     - Projekt może zostać wykorzystany jako praca licencjacka dla zespołu. Prowadzenie projektu będzie to uwzględniać. W ubiegłym roku praca licencjacka została sprawnie przygotowana i wysoko oceniona.
     - W zależności od potrzeb pracy licencjackiej istnieje możliwość udzielenia niewyłącznej bezpłatnej licencji na prototyp, a przekazanie praw autorskich na wersję produkcyjną lub udzielenie niewyłącznej bezpłatnej licencji na całe rozwiązanie.
-    - Wszystko powyższe może się zmienić, jeśli uznamy wspólnie, że nie działa dobrze.
 ---
 Budowa systemu wspierającego tłumaczenia aplikacji, z naciskiem na rozbudowę o „inteligentne funkcje” ułatwiające i przyspieszające pracę tłumaczy oraz umożliwiające równoległą pracę wielu osób (kontynuacja projektu Systemu wsparcia lokalizacji aplikacji .NET, realizowanego w projekcie zespołowym 2015/2016. Projekt został uruchomiony produkcyjnie i działa pod adresem [https://bpstranslator.webcon.com/](https://bpstranslator.webcon.com/)).
 
