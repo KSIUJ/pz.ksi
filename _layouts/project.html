@@ -19,6 +19,16 @@ layout: default
                 <h1 class="page-title">{{ page.project }}</h1>
             </header>
             <div class="row">
+                <article class="col-sm-12 text-justify">
+                    <header class="page-header">
+                        <h2 class="page-title">Szczegóły</h2>
+                    </header>
+                    <p>
+                        {{ content }}
+                    </p>
+                </article>
+            </div>
+            <div class="row">
                 <div class="col-xs-12 col-md-6">
                     <header class="page-header">
                         <h2 class="page-title">Realizacja projektu</h2>
@@ -89,16 +99,6 @@ layout: default
                         </tr>
                     </table>
                 </div>
-            </div>
-            <div class="row">
-                <article class="col-sm-12 text-justify">
-                    <header class="page-header">
-                        <h2 class="page-title">Szczegóły</h2>
-                    </header>
-                    <p>
-                        {{ content }}
-                    </p>
-                </article>
             </div>
         </article>
     </div>
