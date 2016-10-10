@@ -5,7 +5,7 @@ categories: ocado
 company: Ocado
 company_img:
 company_desc:
-project: Monitorowanie jakości danych w Google BigQuery na przestrzeni czasu
+project: Monitorowanie jakości danych w Google BigQuery na przestrzeni czasu (liczba projektów Ocado zostanie zmniejszona)
 project_img:
 technological_stack: |
     Google Cloud Platform (BigQuery, Cloud Storage, App Engine)

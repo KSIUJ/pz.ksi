@@ -5,7 +5,7 @@ categories: ocado
 company: Ocado
 company_img:
 company_desc:
-project: Okudos
+project: Okudos (liczba projektów Ocado zostanie zmniejszona)
 project_img:
 technological_stack: JS/Angular/Hexagon/d3 + Java/Spring/Tomcat
 methodology: Scrum/Kanban

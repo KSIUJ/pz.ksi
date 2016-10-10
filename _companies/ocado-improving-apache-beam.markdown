@@ -5,7 +5,7 @@ categories: ocado
 company: Ocado
 company_img:
 company_desc:
-project: Improving Open Source project Apache Beam
+project: Improving Open Source project Apache Beam (liczba projektów Ocado zostanie zmniejszona)
 project_img:
 technological_stack: |
     Java / Apache Beam / Apache Spark lub Google DataFlow / Amazon Kinesis
