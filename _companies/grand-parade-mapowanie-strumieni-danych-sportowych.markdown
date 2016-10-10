@@ -15,13 +15,13 @@ training: |
 tools_provided: |
     Sprzet nie jest udostępniany, jednak do dyspozycji będą przykładowe dane, na których będzie można pracować.
 mentor: Jakub Mrowiec (jakub.mrowiec@grandparade.co.uk)
-worktime: 160h
+worktime: 1 semestr
 location: Zdalnie.
 money: Nie jest planowana.
 later_employment: |
     Przewidujemy możliwość zatrudnienia lub zaoferowania płatnych praktyk.
 team_size: |
-    1 - ­2 osoby.
+    2 - 3 osoby.
 requirements: |
     Temat wymagający myślenia abstrakcyjnego, znajdowania rozwiązań trudnych, nieoczywistych problemów.
 project_roles: |
