@@ -14,13 +14,13 @@ training: |
     Dedykowane szkolenia nie są przewidziane, jednak Grand Parade planuje prowadzić cykl warsztatów na Uniwersytecie w przyszłym semestrze, gdzie będzie poruszana tematyka związana z podstawami wykorzystywanej technologii (JavaScript/nodejs).
 tools_provided: Nie.
 mentor: Jakub Mrowiec (jakub.mrowiec@grandparade.co.uk)
-worktime: 160h
+worktime: 1 semestr
 location: Zdalnie.
 money: Nie jest planowana.
 later_employment: |
     Przewidujemy możliwość zatrudnienia lub zaoferowania płatnych praktyk.
 team_size: |
-    1 - ­2 osoby.
+    2 - 4 osoby.
 requirements: |
     - sieci komputerowe
     - systemy operacyjne
