@@ -5,7 +5,7 @@ categories: ocado
 company: Ocado
 company_img:
 company_desc:
-project: Optymalizacja działania bezobsługowych magazynów (liczba projektów Ocado zostanie zmniejszona)
+project: Optymalizacja działania bezobsługowych magazynów
 project_img:
 technological_stack: |
     - Backend: Java/Kotlin/Scala/Python (do ustalenia z zespołem)

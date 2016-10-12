@@ -5,7 +5,7 @@ categories: ocado
 company: Ocado
 company_img:
 company_desc:
-project: Optymalizacja koszyka - kontynuacja (liczba projektów Ocado zostanie zmniejszona)
+project: Optymalizacja koszyka - kontynuacja
 project_img:
 technological_stack: |
     Praca głównie algorytmiczna / koncepcyjna. Istniejące rozwiązanie (PoC) jest napisane w Javie.

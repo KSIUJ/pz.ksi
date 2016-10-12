@@ -5,7 +5,7 @@ categories: ocado
 company: Ocado
 company_img:
 company_desc:
-project: Auto-rostering (liczba projektów Ocado zostanie zmniejszona)
+project: Auto-rostering
 project_img:
 technological_stack: Java, AWS
 methodology: |
