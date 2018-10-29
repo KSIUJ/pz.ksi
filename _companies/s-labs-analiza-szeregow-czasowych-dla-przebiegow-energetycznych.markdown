@@ -1,6 +1,6 @@
 ---
 layout: project
-permalink:
+permalink: 
 company: S-Labs
 company_img:
 company_desc: [S-Labs](http://www.slabs.pl)
@@ -39,3 +39,4 @@ copyrights:
 Projekt będzie dotyczył analizy szeregów czasowych dla przebiegów energetycznych w celu modelowania złożonych zależności między urządzeniami w sieci. Oczekiwanym efektem powinien być wzrost predykcji rodzaju/klas urządzeń wielostanowych w modelu stosowanym produkcyjnie. Stworzony moduł będzie częścią większego systemu realizującego nasze rozwiązanie problemu Non-Intrusive Energy Disaggregation.
 
 Studenci będą mieli dostęp do danych spreparowanycn przez firmę na potrzeby projeku; dane będą pochodzić z prawdziwych urządzeń pomiarowych.
+
