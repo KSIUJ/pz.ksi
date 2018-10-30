@@ -3,7 +3,8 @@ layout: project
 permalink: 
 company: S-Labs
 company_img:
-company_desc: [S-Labs](http://www.slabs.pl)
+company_desc: |
+    [S-Labs](http://www.slabs.pl)
 project: Analiza szeregów czasowych dla przebiegów energetycznych
 project_img:
 technological_stack: |
