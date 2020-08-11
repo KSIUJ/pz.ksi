@@ -4,7 +4,11 @@ permalink:
 company: VirtusLab
 company_img:
 company_desc: |
-    VirtusLab, dynamically developing since 2010, currently cooperates with the largest brands in the e-commerce, retail, finance and investment industries. We also work with interesting start-ups that are trying to introduce a lot of new products and innovations to the market. We see the need to increase the efficiency of IT systems implementation, hence our investments in this direction and cooperation with partners such as Lightbend, JetBrains or Confluent.
+    VirtusLab, dynamically developing since 2010, 
+    currently cooperates with the largest brands in the e-commerce, retail, finance and investment industries. 
+    They also work with interesting start-ups that are trying to introduce a lot of new products and innovations to the market. 
+    They see the need to increase the efficiency of IT systems implementation, 
+    hence their investments in this direction and cooperation with partners such as Lightbend, JetBrains or Confluent.
 project: |
     Git repository organizer & rebase automation tool as IntelliJ IDEA plugin
 project_img:
