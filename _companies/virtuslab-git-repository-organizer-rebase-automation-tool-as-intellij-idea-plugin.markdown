@@ -58,6 +58,10 @@ This plugin adds an extra tab in the Git tool window that gives the instant answ
 - what are the branches in this repository? 
 - what needs be merged/rebased/pushed/pulled?
 
+
+![Git Machete Tab](https://raw.githubusercontent.com/VirtusLab/git-machete-intellij-plugin/master/docs/pz-ss.png)
+
+
 The bird's eye view provided by Git Machete makes rebases/push/pulls hassle-free even when multiple branches 
 are present in the repository: master/develop, your topic branches, teammate's branches checked out for review etc.
 
