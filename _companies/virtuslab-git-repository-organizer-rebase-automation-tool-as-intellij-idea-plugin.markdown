@@ -44,7 +44,13 @@ copyrights: |
 ---
 
 ## Git Machete CLI
-[git machete](https://github.com/VirtusLab/git-machete) is command-line tool for organizing branches in git repository in a tree-like hierarchies, allowing to significantly reduce the effort traditionally associated with maintaining multiple branches in the repository at the same time, especially wrt. rebase. The project main objective would be to provide an IDE plugin with similar functionality. Part of the task is to assess how each CLI feature can be intuitively represented in a GUI plugin.
+
+[git machete](https://github.com/VirtusLab/git-machete#git-machete) 
+is command-line tool for organizing branches in git repository in a tree-like hierarchies, 
+allowing to significantly reduce the effort traditionally associated 
+with maintaining multiple branches in the repository at the same time, especially wrt. rebase. 
+The project main objective would be to provide an IDE plugin with similar functionality. 
+Part of the task is to assess how each CLI feature can be intuitively represented in a GUI plugin.
 
 ## Git Machete IntelliJ Plugin
 
@@ -52,10 +58,11 @@ This plugin adds an extra tab in the Git tool window that gives the instant answ
 - what are the branches in this repository? 
 - what needs be merged/rebased/pushed/pulled?
 
-The bird's eye view provided by Git Machete makes rebases/push/pulls hassle-free even when multiple branches are present in the repository: master/develop, your topic branches, teammate's branches checked out for review etc.
+The bird's eye view provided by Git Machete makes rebases/push/pulls hassle-free even when multiple branches 
+are present in the repository: master/develop, your topic branches, teammate's branches checked out for review etc.
 
 Along these lines, Git Machete helps in creating and maintaining small, focused, easy-to-review PRs.
 
-You can read more at the [plugin's GitHub repository](https://github.com/VirtusLab/git-machete-intellij-plugin).
+You can read more at the [plugin's GitHub repository](https://github.com/VirtusLab/git-machete-intellij-plugin#git-machete-intellij-plugin).
 
 The plugin can be downloaded from the IDE and via its [marketplace page](https://plugins.jetbrains.com/plugin/14221-git-machete).
