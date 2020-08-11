@@ -4,7 +4,7 @@ permalink:
 company: VirtusLab
 company_img:
 company_desc: |
-    VirtusLab, dynamically developing since 2010, 
+    [VirtusLab](https://www.virtuslab.com "VirtusLab Homepage"), dynamically developing since 2010, 
     currently cooperates with the largest brands in the e-commerce, retail, finance and investment industries. 
     They also work with interesting start-ups that are trying to introduce a lot of new products and innovations to the market. 
     They see the need to increase the efficiency of IT systems implementation, 
