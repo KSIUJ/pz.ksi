@@ -60,7 +60,7 @@ This plugin adds an extra tab in the Git tool window that gives the instant answ
  
  ---
 
-![Git Machete Tab](https://raw.githubusercontent.com/VirtusLab/git-machete-intellij-plugin/develop/docs/pz-ss.png)
+![Git Machete Tab](https://raw.githubusercontent.com/VirtusLab/git-machete-intellij-plugin/develop/docs/pz_sample_workflow.gif)
 
  ---
 
