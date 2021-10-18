@@ -34,7 +34,8 @@ requirements: |
 project_roles: |
     2-3x Software Engineer
 copyrights: |
-    Przekazanie autorskich praw majątkowych bez wynagrodzenia. Oznaczenie autora w przypadku publikacji kodu.
+    Projekt byłby tworzony na licencji Open Source MIT, publikowany przez Software Mansion na GitHub. Jeśli stan końcowy projektu będzie zadowalający, ma on szansę być opublikowany i wykorzystywany przez tysiące innych programistów tworzących aplikacje mobilne. Będziemy chcieli podpisać NDA z osobami realizującymi projekt i prowadzącym zajęcia.
+
 ---
 Projekt Expo (https://expo.dev, https://github.com/expo/expo) - związany jest z tworzeniem frameworka bazującego na React Native stworzonym przez Facebook, służącego do tworzenia aplikacji mobilnych i webowych wykorzystując język JavaScript lub TypeScript. Daje to możliwość pisania jednego, cross-platformowego kodu w JS zamiast konieczności tworzenia kodu natywnego osobno na Androida i iOSa. Projekt dla grupy 2-3 osobowej dotyczyć będzie stworzenia jednego z modułów systemu. Do wyboru będzie jedno z dwóch zagadnień:
 
