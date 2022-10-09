@@ -9,7 +9,10 @@ layout: default
                 <h1 class="page-title">{{ page.company }}</h1>
             </header>
             <p class="text-justify">
-                <img src="{{ page.company_img }}" style="float: left; max-width: 150px; max-height: 150px; margin: 0px 15px 15px 15px" /> {{ page.company_desc | markdownify }}
+                {% if page.company_img %}
+                    <img src="{{ page.company_img }}" style="float: left; max-width: 150px; max-height: 150px; margin: 0px 15px 15px 15px" />
+                {% endif %}
+                <p>{{ page.company_desc | markdownify }}</p>
             </p>
         </article>
     </div>
