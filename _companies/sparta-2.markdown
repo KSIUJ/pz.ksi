@@ -22,7 +22,7 @@ project_img:
 technological_stack: |
   MongoDB, Java 21, Spring Boot, Angular
 methodology: |
-  
+  -
 shipment_method: |
   -
 training: |

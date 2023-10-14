@@ -24,7 +24,7 @@ worktime: |
 location: |
   biuro / hybrydowo
 money: |
-  No
+  Nie
 later_employment: |
   uproszczony proces rekrutacji na płatny staż letni 
 team_size: |
