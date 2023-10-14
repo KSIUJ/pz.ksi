@@ -30,7 +30,7 @@ later_employment: |
 team_size: |
   5-7 osób
 requirements: |
-  -
+   AI models/GenAI/Programming/Java/TypeScript/ReactJS/SCRUM 
 project_roles: |
   Software engineering interns
 copyrights: |
