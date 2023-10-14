@@ -17,7 +17,7 @@ company_desc: |
   Nasze produkty i usługi są obecne w biznesie wielu marek takich jak: MOL (były Lotos Paliwa), Empik, The Body Shop, Briju, Gatta, iDream (Apple Reseller), Kazar, Spar.
   Nasze systemy działają w ponad 14 tyś sklepów w CEE. 
 
-project: Aplikacja do tworzenia i utrzymywania dokumentacji
+project: Aplikacja automatyzująca testy integracji API 
 project_img:
 technological_stack: |
   MongoDB, Java 21, Spring Boot, Angular
