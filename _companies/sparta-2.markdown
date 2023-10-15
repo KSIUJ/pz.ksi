@@ -22,31 +22,31 @@ project_img:
 technological_stack: |
   MongoDB, Java 21, Spring Boot, Angular
 methodology: |
-  -
+  do ustalenia
 shipment_method: |
-  -
+  do ustalenia
 training: |
-  -
+  do ustalenia
 tools_provided: |
-  -
+  do ustalenia
 mentor: |
-  -
+  do ustalenia
 worktime: |
-  -
+  do ustalenia
 location: |
-  -
+  do ustalenia
 money: |
-  -
+  do ustalenia
 later_employment: |
-  -
+  do ustalenia
 team_size: |
   ~4 osoby
 requirements: |
-  -
+  do ustalenia
 project_roles: |
-  -
+  do ustalenia
 copyrights: |
-  -
+  do ustalenia
 ---
 Celem projektu jest stworzenie aplikacji webowej służącej do wygodnego i szybkiego:
 

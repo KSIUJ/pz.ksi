@@ -12,7 +12,7 @@ technological_stack: |
 methodology: |
   SCRUM
 shipment_method: |
-  -
+  do ustalenia
 training: |
   Scrum Basics Training, Best Developers’ Practices + inne w miarę potrzeb
 tools_provided: |
@@ -20,17 +20,17 @@ tools_provided: |
 mentor: |
   1-3 Software Engineers/Managers from Pega, 1 Scrum Master and 1 Product Manager from Pega
 worktime: |
-  Do ustalenia
+  do ustalenia
 location: |
   biuro / hybrydowo
 money: |
-  Nie
+  nie
 later_employment: |
   uproszczony proces rekrutacji na płatny staż letni 
 team_size: |
   5-7 osób
 requirements: |
-   AI models/GenAI/Programming/Java/TypeScript/ReactJS/SCRUM 
+  AI models/GenAI/Programming/Java/TypeScript/ReactJS/SCRUM 
 project_roles: |
   Software engineering interns
 copyrights: |
